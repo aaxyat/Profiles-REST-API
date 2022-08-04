@@ -1,0 +1,17 @@
+**/*.pyc
+**/*.pyo
+**/*.mo
+.gitignore
+.git/
+**/__pycache__/
+Dockerfile
+db.sqlite3
+**/*.md
+docker-compose-dev.yaml
+docker-compose.yaml
+docker-compose-dev.yml
+docker-compose.yml
+.idea/
+.vscode/
+.venv/
+.env/
