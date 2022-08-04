@@ -14,7 +14,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Remote Vagrant Python 3.8.10 Vagrant VM at C:/Users/Aaxyat/PycharmProjects/profiles-rest-api (/home/vagrant/.virtualenvs/profiles-rest-api/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (profiles-rest-api) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
